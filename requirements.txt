@@ -1,4 +1,4 @@
-psycopg2==2.9.7
+pymysql==1.1.0
 pandas==2.0.3
 seaborn==0.12.2
 matplotlib==3.7.2

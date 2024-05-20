@@ -1,2 +1,4 @@
 .env
-/Kafka/config.ini
+/kafka_conf/config.ini
+/venv
+/kafka_conf/__pycache__

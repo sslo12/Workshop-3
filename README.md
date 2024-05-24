@@ -27,7 +27,7 @@ It can be noted that the above datasets each present a variety of metrics that a
     git clone https://github.com/sslo12/Workshop-3
 
 ### Step 2: Create config.init
-In the Config_db folder Create a config.ini file and copy the credentials of your MySQL database into it.
+In the kafka_conf folder Create a config.ini file and copy the credentials of your MySQL database into it.
   ```
   [mysql]
 host = your host

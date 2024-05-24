@@ -75,8 +75,8 @@ python kafka_consumer.py
 ```
 python kafka_producer.py
 ```
-Then, in to the Kafka dashboard, find the data in the dashboard that we configured in the api link
 Note: Run the consumer first.
+Then, in to the Kafka dashboard, find the data in the dashboard that we configured in the api link
 
 ### Step 9: Graphics
-To set up the dashboard and connect PowerBI to Kafka, you can follow the instructions in [this video]([https://www.youtube.com/watch?v=ufrVf6BTLKc&t=359s](https://www.youtube.com/watch?v=B0nwAalcU7w&t=1s)).
+To set up the dashboard and connect PowerBI to Kafka, you can follow the instructions in [this video](https://www.youtube.com/watch?v=B0nwAalcU7w&t=1s).

@@ -73,7 +73,7 @@ def etl():
 def model_training(df):
     new_happy = df.select_dtypes(include=[np.number])
     X = new_happy.drop('happiness_score',axis= 1)
-    y = new_happy['happiness_score'] 
+    y = new_happy['happiness_score']
     X_train,X_test,y_train,y_test = train_test_split(X, y, test_size=0.3, random_state=20)
     return df.iloc[y_test.index]
 
